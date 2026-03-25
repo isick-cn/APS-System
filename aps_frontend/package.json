@@ -1,0 +1,23 @@
+{
+  "name": "aps_frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.0",
+    "element-plus": "^2.3.0",
+    "axios": "^1.4.0",
+    "vue-router": "^4.2.0",
+    "echarts": "^5.4.0",
+    "dayjs": "^1.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.0",
+    "vite": "^4.3.0"
+  }
+}
